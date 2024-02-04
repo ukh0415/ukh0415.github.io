@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2960543e.css",
+    "main.js": "/static/js/main.a750fd95.js",
+    "static/js/787.917857b7.chunk.js": "/static/js/787.917857b7.chunk.js",
+    "static/media/우도기.png": "/static/media/우도기.c86359d4023cc8b25ead.png",
+    "static/media/벤탕쿠르.png": "/static/media/벤탕쿠르.30ceb42a7899def570de.png",
+    "static/media/히샬리송.png": "/static/media/히샬리송.42ff6a9bb2e8a44c5c51.png",
+    "static/media/로메로.png": "/static/media/로메로.80ee156a34137e4954da.png",
+    "static/media/포로.png": "/static/media/포로.0fde8ec99e2e327afa31.png",
+    "static/media/비카리오.png": "/static/media/비카리오.4c3907f07e98718db128.png",
+    "static/media/쿨루셉스키.png": "/static/media/쿨루셉스키.704bf214162fbd0ca4df.png",
+    "static/media/매디슨.png": "/static/media/매디슨.121461c6e8ebbf929f92.png",
+    "static/media/반더벤.png": "/static/media/반더벤.743039775103a56e32b4.png",
+    "static/media/비수마.png": "/static/media/비수마.8a40084aa17f7ea90585.png",
+    "static/media/손흥민.png": "/static/media/손흥민.d430dec03aa5f1dbbc63.png",
+    "static/media/BG.jpg": "/static/media/BG.bf2835c08fef5b7ab2ec.jpg",
+    "index.html": "/index.html",
+    "main.2960543e.css.map": "/static/css/main.2960543e.css.map",
+    "main.a750fd95.js.map": "/static/js/main.a750fd95.js.map",
+    "787.917857b7.chunk.js.map": "/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2960543e.css",
+    "static/js/main.a750fd95.js"
+  ]
+}
